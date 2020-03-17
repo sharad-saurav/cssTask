@@ -1,0 +1,21 @@
+.outer-block {
+height: 200px; 
+width:400px; 
+background-color:gray
+}
+
+.inner-block {
+    z-index: 10;
+    background-color: honeydew;
+    }
+      
+      .one-dot span {
+        width: 2px;
+        height: 2px;
+        border-radius: 50%;
+        background: black;
+        display: inline-block;
+        margin: 0 5px;
+        margin-bottom: 0.4em;
+        margin-left: 0.5em;
+      }
